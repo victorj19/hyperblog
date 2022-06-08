@@ -1,5 +1,3 @@
-victor caballero
+victor caballero 
 edad 33
 estatura 1.76
-
-Mañana se trabaja en un starup
